@@ -1,0 +1,1 @@
+# 8.2.8_min_max_pomenyat_mestami_massiv
